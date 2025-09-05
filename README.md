@@ -17,7 +17,7 @@ It includes raw dataset, preprocessing scripts, and Jupyter notebooks for experi
 ## 🚀 Usage
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/bigbasket-preprocessing.git
+   git clone https://github.com/Rayhan-Dodi/bigbasket-preprocessing.git
    cd bigbasket-preprocessing
    ```
 
